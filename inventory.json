@@ -1,7 +1,7 @@
 {
   "dealership": "Langley Hyundai",
-  "generated_at": "2026-10-25T19:58:50",
-  "vehicle_count": 109,
+  "generated_at": "2026-10-26T04:58:29",
+  "vehicle_count": 110,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -628,17 +628,6 @@
       "condition": "used"
     },
     {
-      "name": "2021 Volkswagen Tiguan R Linein Surrey",
-      "vin": "3VV4B7AXXMM149522",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/066c2099c93e.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 24998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Volkswagen Tiguan ",
       "vin": "3VV4B7AXXMM149522",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/24db1c08888f.html",
@@ -849,6 +838,24 @@
       "condition": "used",
       "price": 21998.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Hyundai Kona N Line Ultimatein Surrey",
+      "vin": "KM8K5CA32PU933465",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/897d2670c94a.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Hyundai Kona ",
+      "vin": "KM8K5CA32PU933465",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/80abbe7d6cef.html",
+      "year": 2023,
+      "make": "Hyundai",
+      "model": "Kona",
+      "condition": "used"
     },
     {
       "name": "2023 Hyundai Venue Preferredin Surrey",
