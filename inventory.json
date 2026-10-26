@@ -1,6 +1,6 @@
 {
   "dealership": "Langley Hyundai",
-  "generated_at": "2026-10-25T19:50:31",
+  "generated_at": "2026-10-25T19:58:50",
   "vehicle_count": 109,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -150,19 +150,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2026 Hyundai Kona 2.0l Essential Awdin Surrey",
-      "vin": "KM8HACAB0TU484973",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/new/ea7318e5dc8e.html",
-      "condition": "new",
-      "price": 32199.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "New 2026 Hyundai Tucson Preferred Kmxin Surrey",
       "vin": "3KMJBCDE5TE038905",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/new/34dff668b684.html",
       "condition": "new",
       "price": 38599.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Hyundai Tucson Preferred Hmcin Surrey",
+      "vin": "KM8JBCDE7TU497661",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/new/84ad0cd3ef18.html",
+      "condition": "new",
+      "price": 38949.0,
       "price_currency": "CAD"
     },
     {
