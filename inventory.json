@@ -1,6 +1,6 @@
 {
   "dealership": "Langley Hyundai",
-  "generated_at": "2026-11-17T00:36:33",
+  "generated_at": "2026-11-17T21:08:50",
   "vehicle_count": 105,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -36,6 +36,14 @@
       "condition": "used"
     },
     {
+      "name": "Hyundai Tucson 2017 for salein Surrey",
+      "vin": "KM8J3CA49HU445769",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/17b32ad1bc06.html",
+      "condition": "used",
+      "price": 13998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai IONIQ Electric 2019 for salein Surrey",
       "vin": "KMHC85LC7KU106851",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/1bd24d286a41.html",
@@ -57,6 +65,14 @@
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/9a0870b4206d.html",
       "condition": "used",
       "price": 11998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Nissan Qashqai 2020 for salein Surrey",
+      "vin": "JN1BJ1CW6LW381353",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/b5efd13bd8dc.html",
+      "condition": "used",
+      "price": 16998.0,
       "price_currency": "CAD"
     },
     {
@@ -84,6 +100,20 @@
       "price_currency": "CAD"
     },
     {
+      "name": "Volkswagen Tiguan 2021 for salein Surrey",
+      "vin": "3VV4B7AXXMM149522",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/24db1c08888f.html",
+      "condition": "used",
+      "price": 24998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Elantra 2022 for salein Surrey",
+      "vin": "KMHLN4AJ2NU015768",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/9ba0b6931a2d.html",
+      "condition": "used"
+    },
+    {
       "name": "Hyundai Tucson Plug-In Hybrid 2022 for salein Surrey",
       "vin": "KM8JDDA24NU037323",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/f4f5268a5cb8.html",
@@ -108,11 +138,43 @@
       "price_currency": "CAD"
     },
     {
+      "name": "RAM 1500 2022 for salein Surrey",
+      "vin": "1C6SRFFT6NN117196",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/0d7448924389.html",
+      "condition": "used",
+      "price": 36998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru Ascent 2022 for salein Surrey",
+      "vin": "4S4WMAHDXN3445567",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/df1cdd9ecd93.html",
+      "condition": "used",
+      "price": 26998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2022 for salein Surrey",
+      "vin": "1V2BR2CA2NC502060",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/4d50f95ad4af.html",
+      "condition": "used",
+      "price": 24998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Elantra 2023 for salein Surrey",
       "vin": "KMHLM4AG6PU578428",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/a74a708b6c95.html",
       "condition": "used",
       "price": 21998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Kona 2023 for salein Surrey",
+      "vin": "KM8K6CAB8PU986594",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/80abbe7d6cef.html",
+      "condition": "used",
+      "price": 23998.0,
       "price_currency": "CAD"
     },
     {
@@ -152,11 +214,27 @@
       "condition": "used"
     },
     {
+      "name": "Hyundai Tucson 2024 for salein Surrey",
+      "vin": "KM8JCCDE9RU329915",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/5ed4eedebea1.html",
+      "condition": "used",
+      "price": 25998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Hyundai Venue 2024 for salein Surrey",
       "vin": "KMHRC8A37RU294407",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/acc67afaaf10.html",
       "condition": "used",
       "price": 17998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2024 for salein Surrey",
+      "vin": "JA4T5WA92RZ621029",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/f7d2111d3df2.html",
+      "condition": "used",
+      "price": 41998.0,
       "price_currency": "CAD"
     },
     {
@@ -166,9 +244,34 @@
       "condition": "used"
     },
     {
+      "name": "Hyundai Elantra N 2025 for salein Surrey",
+      "vin": "KMHLR4DF2SU856092",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/cbdfe8123b4f.html",
+      "condition": "used",
+      "price": 24998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "Jeep Compass 2025 for salein Surrey",
       "vin": "3C4NJDAN4ST529316",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/91c9d2e218c6.html",
+      "condition": "used"
+    },
+    {
+      "name": "Mazda CX-70 2025 for salein Surrey",
+      "vin": "JM3KJDHDXS1122857",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/967a3bf5be94.html",
+      "condition": "used",
+      "price": 37998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2006 Mazda3in Surrey",
+      "vin": "JM1BK123861423749",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/288fd2908099.html",
+      "year": 2006,
+      "make": "Mazda3in",
+      "model": "Surrey",
       "condition": "used"
     },
     {
@@ -224,18 +327,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 14998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Hyundai Tucson ",
-      "vin": "KM8J3CA49HU445769",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/17b32ad1bc06.html",
-      "year": 2017,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 14998.0,
+      "price": 13998.0,
       "price_currency": "CAD"
     },
     {
@@ -247,17 +339,6 @@
       "model": "IONIQ Electric",
       "condition": "used",
       "price": 14998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Jeep Wranglerin Surrey",
-      "vin": "1C4HJXEG8KW675478",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/4781586be843.html",
-      "year": 2019,
-      "make": "Jeep",
-      "model": "Wranglerin Surrey",
-      "condition": "used",
-      "price": 31998.0,
       "price_currency": "CAD"
     },
     {
@@ -279,18 +360,7 @@
       "make": "Nissan",
       "model": "Qashqaiin Surrey",
       "condition": "used",
-      "price": 17998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Nissan Qashqai ",
-      "vin": "JN1BJ1CW6LW381353",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/b5efd13bd8dc.html",
-      "year": 2020,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 17998.0,
+      "price": 16998.0,
       "price_currency": "CAD"
     },
     {
@@ -327,23 +397,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Volkswagen Tiguan ",
-      "vin": "3VV4B7AXXMM149522",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/24db1c08888f.html",
-      "year": 2021,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 24998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford F-150 ",
-      "vin": "1FTFW1E52NKD46890",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/0bdce9c25c77.html",
+      "name": "2022 Hyundai Elantra Limitedin Surrey",
+      "vin": "KMHLN4AJ2NU015768",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/3eb0394c35f1.html",
       "year": 2022,
-      "make": "Ford",
-      "model": "F-150",
+      "make": "Hyundai",
+      "model": "Elantra",
       "condition": "used"
     },
     {
@@ -380,50 +439,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Big Horn/lone Starin Surrey",
-      "vin": "1C6SRFFT6NN117196",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/baabf9bb479f.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 36998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFFT6NN117196",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/0d7448924389.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 38998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Subaru Ascentin Surrey",
-      "vin": "4S4WMAHDXN3445567",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/3005b57fd86d.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "Ascentin Surrey",
-      "condition": "used",
-      "price": 26998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Subaru Ascent ",
-      "vin": "4S4WMAHDXN3445567",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/df1cdd9ecd93.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "Ascent",
-      "condition": "used",
-      "price": 28998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Volkswagen Atlas Highlinein Surrey",
       "vin": "1V2BR2CA2NC502060",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/fa317faef462.html",
@@ -432,17 +447,6 @@
       "model": "Atlas",
       "condition": "used",
       "price": 24998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Volkswagen Atlas ",
-      "vin": "1V2BR2CA2NC502060",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/4d50f95ad4af.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "used",
-      "price": 27998.0,
       "price_currency": "CAD"
     },
     {
@@ -463,12 +467,14 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "price": 23998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Kona ",
-      "vin": "KM8K5CA32PU933465",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/80abbe7d6cef.html",
+      "name": "2023 Hyundai Kona Trendin Surrey",
+      "vin": "KM8K6CAB8PU986594",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/aa4843d056eb.html",
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona",
@@ -541,18 +547,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 27998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Hyundai Tucson ",
-      "vin": "KM8JCCDE9RU329915",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/5ed4eedebea1.html",
-      "year": 2024,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 27998.0,
+      "price": 25998.0,
       "price_currency": "CAD"
     },
     {
@@ -564,17 +559,6 @@
       "model": "Venue",
       "condition": "used",
       "price": 17998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Mitsubishi Outlander PHEV ",
-      "vin": "JA4T5WA92RZ621029",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/f7d2111d3df2.html",
-      "year": 2024,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 41998.0,
       "price_currency": "CAD"
     },
     {
@@ -595,17 +579,6 @@
       "model": "Elantra",
       "condition": "used",
       "price": 24998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Elantra N ",
-      "vin": "KMHLR4DF2SU856092",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/cbdfe8123b4f.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 25998.0,
       "price_currency": "CAD"
     },
     {
@@ -648,15 +621,6 @@
       "year": 2025,
       "make": "Jeep",
       "model": "Compass",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Mazda CX-70 ",
-      "vin": "JM3KJDHDXS1122857",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/967a3bf5be94.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-70",
       "condition": "used"
     },
     {
