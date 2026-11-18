@@ -1,6 +1,6 @@
 # Langley Hyundai
 
- dealership in Surrey. AI-readable inventory mirror, about 105 vehicles.
+ dealership in Surrey. AI-readable inventory mirror, about 104 vehicles.
 
 - Official website: https://www.langleyhyundai.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/

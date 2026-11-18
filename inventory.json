@@ -1,7 +1,7 @@
 {
   "dealership": "Langley Hyundai",
-  "generated_at": "2026-11-17T21:12:46",
-  "vehicle_count": 105,
+  "generated_at": "2026-11-18T06:46:48",
+  "vehicle_count": 104,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -238,17 +238,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Chevrolet Trax 2025 for salein Surrey",
-      "vin": "KL77LHE28SC173780",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/cb8f95a1d21b.html",
-      "condition": "used"
-    },
-    {
       "name": "Hyundai Elantra N 2025 for salein Surrey",
       "vin": "KMHLR4DF2SU856092",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/cbdfe8123b4f.html",
       "condition": "used",
       "price": 24998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Hyundai Venue 2025 for salein Surrey",
+      "vin": "KMHRC8A39SU361515",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/5f0264be3379.html",
+      "condition": "used",
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
@@ -263,6 +265,13 @@
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/967a3bf5be94.html",
       "condition": "used",
       "price": 37998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Legend 18 Fun Ext 2023 for salein Surrey",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/57d901ea59bc.html",
+      "condition": "used",
+      "price": 44998.0,
       "price_currency": "CAD"
     },
     {
@@ -439,6 +448,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Subaru Ascentin Surrey",
+      "vin": "4S4WMAHDXN3445567",
+      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/3005b57fd86d.html",
+      "year": 2022,
+      "make": "Subaru",
+      "model": "Ascentin Surrey",
+      "condition": "used",
+      "price": 26998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Volkswagen Atlas Highlinein Surrey",
       "vin": "1V2BR2CA2NC502060",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/fa317faef462.html",
@@ -489,16 +509,6 @@
       "model": "Tucson Plug-In",
       "condition": "used",
       "price": 36998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Legend 18 Fun Ext ",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/57d901ea59bc.html",
-      "year": 2023,
-      "make": "Legend",
-      "model": "18 Fun Ext",
-      "condition": "used",
-      "price": 44998.0,
       "price_currency": "CAD"
     },
     {
@@ -562,15 +572,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Chevrolet Trax 1LTin Surrey",
-      "vin": "KL77LHE28SC173780",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/f61923c05d45.html",
-      "year": 2025,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "condition": "used"
-    },
-    {
       "name": "2025 Hyundai Elantra N Linein Surrey",
       "vin": "KMHLR4DF2SU856092",
       "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/18fea2ccbe0e.html",
@@ -589,18 +590,7 @@
       "make": "Hyundai",
       "model": "Venue",
       "condition": "used",
-      "price": 21998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Venue ",
-      "vin": "KMHRC8A39SU361515",
-      "url": "https://willyml1979-dotcom.github.io/langley-hyundai-mirror/used/5f0264be3379.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "used",
-      "price": 21998.0,
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
